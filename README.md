@@ -8,7 +8,7 @@
 
 The Edison Lighting MIS Core Library is a foundational DLL designed to [**Briefly state the main purpose/problem it solves - e.g., streamline lighting project management, manage inventory and sales data for Edison Lighting, provide reporting infrastructure**]. It serves as the central engine for the broader MIS application, ensuring data integrity, encapsulating complex business rules, and providing a consistent API for front-end applications or other services.
 
-Developed by [Zubair Usman/SCLTECH GROUP or Zus3c] (https://www.linkedin.com/in/zus3c/ , https://www.linkedin.com/company/94793241/admin?lipi=urn%3Ali%3Apage%3Aorganization_admin_admin_dashboard_index%3Bd3f77555-a23d-4ab9-a6c3-8bf255add24c).
+Developed by [Zubair Usman/SCLTECH GROUP or Zus3c] (https://www.linkedin.com/in/zus3c/ , https://www.linkedin.com/company/scoltech).
 
 ## Key Features
 
@@ -40,7 +40,7 @@ Developed by [Zubair Usman/SCLTECH GROUP or Zus3c] (https://www.linkedin.com/in/
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/Zus3c/Edison-Lighting-MIS.git](https://github.com/Zus3c/Edison-Lighting-MIS.git)
+    git clone https://github.com/Zus3c/Edison-Lighting-MIS.git , https://github.com/Zus3c/Edison-Lighting-MIS.git
     cd Edison-Lighting-MIS
     ```
 2.  Open the solution (`.sln`) file in your preferred IDE (e.g., Visual Studio).
