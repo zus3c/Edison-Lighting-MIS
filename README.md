@@ -106,11 +106,18 @@ Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) fi
 
 ## License
 
-This project is licensed under the [**Your Chosen License, e.g., MIT License**] - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [**MIT License**] - see the [LICENSE](LICENSE) file for details.
 
 ## Support & Contact
 
 * Report issues via the [GitHub Issues](https://github.com/Zus3c/Edison-Lighting-MIS/issues) tab.
-* For specific inquiries, contact [Your Name/Alias] at [Your Email Address (Optional)].
+* For specific inquiries, contact [**Zubair Usman**] at [zus3cu@gmail.com]
+
+**LinkedIn:** @zus3c
+**Twitter/X:** @zus3cu
+**Threads:** @zus3c
+**Facebook:** @zus3c
+**Reddit:** @zus3c
+**WhatsApp channel:** https://whatsapp.com/channel/0029VahEpDoGZNCjNV0vXF1B
 
 ---
