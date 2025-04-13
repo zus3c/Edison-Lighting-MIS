@@ -7,9 +7,8 @@
 3.  **Code Style:** Adhere to the project's coding conventions and style guidelines.
 4.  **Testing:** Write unit tests and integration tests to ensure your code works as expected.
 5.  **Documentation:** Update the relevant documentation, including API documentation, usage guides, and code comments.
-6.  **Commit Messages:** Write clear and concise commit messages. Follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification.
-7.  **Pull Request:** Submit a pull request to the `main` branch of the `EdisonLightingMIS-Core` repository.
-8.  **Code Review:** Participate in the code review process and address any feedback.
+6.  **Pull Request:** Submit a pull request to the `main` branch of the `EdisonLightingMIS-Core` repository.
+7.  **Code Review:** Participate in the code review process and address any feedback.
 
 ### 2. Issue Reporting
 
@@ -48,4 +47,4 @@
 
 ### 7. License
 
-By contributing to this project, you agree that your contributions will be licensed under the [Specify the project's license, e.g., MIT, Apache 2.0, etc.].
+By contributing to this project, you agree that your contributions will be licensed under the [Specify the project's license.].
